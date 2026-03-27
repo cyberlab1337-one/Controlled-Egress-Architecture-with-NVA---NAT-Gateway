@@ -59,7 +59,7 @@ Inbound (response only)
 To verify outbound path:
 - curl ifconfig.me
 
-![CURL Result](images/curl result.png)
+![Curl](images/curl%20result.png)
 
 ## Notes
 
