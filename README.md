@@ -65,6 +65,10 @@ To verify outbound path:
 
 ![Curl](images/curl%20result.png)
 
+## Azure Bastion deployed and operational
+
+![Bastion](images/nva%20bastion.png)
+
 ## Notes
 
 This project was built to understand:
