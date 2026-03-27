@@ -26,6 +26,10 @@ Core Components
 - User Defined Route (UDR) → forces traffic to NVA
 - NAT Gateway → provides outbound public IP
 
+## Resources
+
+![Resources](images/resources.png)
+
 ## Traffic Flow
 
 Outbound
